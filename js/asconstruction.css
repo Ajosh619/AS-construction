@@ -1,0 +1,43 @@
+body{
+	
+}
+.fluid{
+	background-color:black;
+	height:30px;
+	width:auto;
+	color:white;
+}
+.top-text {
+    font-size: 12px;
+    color: #fff;
+    margin-top: 8px;
+	margin-left:15px;
+}
+.navigationwrape {
+    float: right;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+		background-color:white;
+	height:80px;
+	width:auto;
+	color:black;
+}
+
+
+.footer_section{
+	background:url("/images/footer-bg.jpg");
+}
+.footer_section p{
+	padding-top: 15px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #a6a6a6;
+    margin-top: 8px;
+}
+.footer_section a{
+	     color: #efb935;
+    text-decoration: underline;
+}
